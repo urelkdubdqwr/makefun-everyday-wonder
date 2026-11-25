@@ -1,3 +1,5 @@
+"""Write the makefun-everyday-wonder entry line to <MAKEFUN_OUTPUT_DIR or /output>/entry.txt."""
+
 import os
 
 TEXT = "My father's watch loses exactly one minute a day, and once a year, for one minute, it is right.\n"
